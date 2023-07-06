@@ -1,0 +1,4 @@
+datasets/*
+datafiles/*
+weights/*
+runs/*

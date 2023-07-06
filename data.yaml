@@ -1,0 +1,10 @@
+
+path: ./datasets/BD_71_copy
+train: images/train  
+val: images/valid
+test: images/test
+
+# Classes
+names:
+  0: 'Anthophila'
+  1: 'unknown'
